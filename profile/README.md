@@ -65,14 +65,9 @@ With customizable views, smart filters, and drag-and-drop simplicity, this deskt
 
 ## 🖼 Preview
 
-![HubSpot Contacts](https://i.postimg.cc/QxdHvmZg/hubspot-contacts.png)
+![HubSpot Contacts](https://lh6.googleusercontent.com/Zdw7ih6pVRieQpQ6XyL1vu3z83vcAC_XmzbQnGZMZh10lwkEGpZqf2kuP1LnGeQ9vdt48fbaeZQGfxbyjKVDf20YUj3z09YjJ65jsTAe90aHPo-y0VZKdrkUUPXLVyfuFHVSUbkWcBfD2cNbLa04mo4NgpXXcEg1S4dqX-R5kMiTPK9VozAfEb0d5g)
 *Unified contact view with engagement timeline*
 
-![HubSpot Deals](https://i.postimg.cc/fRTZZ0L0/hubspot-deals.png)
-*Pipeline view with deal stages and priorities*
-
-![HubSpot Dashboard](https://i.postimg.cc/K8JL0tMb/hubspot-dashboard.png)
-*Analytics dashboard showing deal flow and conversions*
 
 ---
 
